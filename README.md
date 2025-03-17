@@ -1,7 +1,7 @@
 ## Hi there, I'm Zach! 👋
 
 - ❤️ I have a passion for technology that brings people away from screens and out into the real world ☀️🌳 and relationship with God and others.
-- 📫 I’m currently working on [MissionSite](https://zachhofmeister.com), a website I use to share interactive newsletters with supporters of my work for [FOCUS](https://focus.org).
+- 📫 I’m currently working on [zachhofmeister.com](https://zachhofmeister.com), a website I use to share interactive newsletters with supporters of my work for [FOCUS](https://focus.org).
 - 🌱 I’m currently learning about web security, making latte art, working out, and how to build a strong marriage.
 - 🤺 Fun fact: I used to be a fencer and would love to do it again
 
