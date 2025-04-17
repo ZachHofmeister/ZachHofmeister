@@ -9,8 +9,8 @@
 <p align="left">I'm a software and web developer originally from San Diego, CA. I've always had a passion for building things, and I especially love technology that leads people away from screens and into contact with others.</p>
 
 🛠️ I'm working on my [newsletter website](https://github.com/ZachHofmeister/MissionSite) and a budgeting app called [Stacks](https://github.com/ZachHofmeister/Stacks)<br>
-📚 I'm currently learning about reverse proxies for API's<br>
-🎯 A dream goal of mine is to publish a game on Steam
+📚 I'm currently learning about reverse proxies and Docker
+🎯 A dream goal of mine is to publish a game on Steam. [DungeonMom](https://github.com/ZachHofmeister/DungeonMom) is a fun one I would like to work on more.
 
 ###
 
