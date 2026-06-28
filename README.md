@@ -1,13 +1,8 @@
-<h1 align="left">Hi, I'm Zach!</h1>
+# Hi, I'm Zach!
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+I've always had a passion for building things, and I especially love technology that is simple, well designed, and that ultimately leads people away from screens and into contact with others. I am a full-stack developer, and in my spare time I love working on websites, apps, and games.
 
-###
-
-<p align="left">I'm a software and web developer originally from San Diego, CA. I've always had a passion for building things, and I especially love technology that leads people away from screens and into contact with others.</p>
-
-🛠️ I'm working on a [newsletter website](https://github.com/ZachHofmeister/MissionSite) which I use for my work in FOCUS, and a budgeting app called [Stacks](https://github.com/ZachHofmeister/Stacks)<br>
-📚 I'm currently learning React.js and Docker<br>
+📚 I'm currently learning React, Next.js, and TailwindCSS as I build a portfolio site\
 🎯 A dream goal of mine is to publish a game on Steam. [DungeonMom](https://github.com/ZachHofmeister/DungeonMom) is one I would like to develop further.
